@@ -1,0 +1,31 @@
+Priority:
+
+Priority relates to how fast the bug or issue has to be fixed.
+Priority is related to scheduling to resolve the problem.
+Is largely related to business or marketing considerations in that it is indicatory of the importance of the bug especially in terms of stakeholders.
+The priority status is also set based on the customer requirements.
+Priority relates heavily to the technical aspect of the product and how ‘bad’ the impact of the bug is for the system.
+Priority obviously dictates how urgently the issue should be fixed.
+Fixes are carried out based also on the project’s priorities
+The Priority status is set by the tester to the developer mentioning the time frame to fix a defect. If High priority is mentioned then the developer has to fix it at the earliest.
+Severity:
+
+Severity is related entirely to the quality standard.
+Logically, severity enquires how severely the issue is affecting the functionality.
+The severity type is defined by the tester based on the test cases and functionality.
+Severity is assigned by tester according to the seriousness of the bug.
+It is common to use four common categories of Severity:
+The four common categories of Severity;
+Show Stopper: 4 – Tester is unable to test application further.
+
+Major Defect: 3 – Major functionality not working but able to continue testing the application.
+
+Minor Defect: 2 – Bug in Functionality but in the sub module or one under the other
+
+What is Sanity Testing?
+Sanity Testing is a subset of Regression Testing which is performed to ensure that the code changes that are made are working properly.
+
+Why Perform Sanity Testing?
+The purpose of Sanity Testing is to determine that the changes in functionality and bug fixes are working as expected. It is also called as “Tester Acceptance Testing”
+
+Cosmetic: 1 – Issues in location of object or ‘look and feel’ issue
